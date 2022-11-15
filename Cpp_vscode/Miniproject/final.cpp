@@ -245,7 +245,7 @@ int main(){
 	if(cspt==capt&&pword==password&&uname==username)
 	{
 	while(1){
-	cout<<"Choose the key carefully! :"<<'\n';
+	cout<<"Choose the key carefully!!!"<<'\n';
 	cout<<"Press key 1 for Data Entry of Student"<<'\n';
 	cout<<"Press key 2 for Show the Data of Student"<<'\n';
 	cout<<"Press key 3 for Search the Data of Student"<<'\n';
